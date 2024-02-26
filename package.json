@@ -3,5 +3,8 @@
   "uuid": "109285f8-9115-4d4c-877b-8303f67e311e",
   "creator": {
     "version": "3.8.2"
+  },
+  "dependencies": {
+    "@colyseus/command": "^0.2.1"
   }
 }
